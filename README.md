@@ -1,2 +1,2 @@
 # External-Sort
-Implements External-Sort using MPI
+Implements External-Sort using C and MPI
